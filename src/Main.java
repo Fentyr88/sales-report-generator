@@ -1,7 +1,8 @@
 package src;
 
 import java.io.*;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Main {
 

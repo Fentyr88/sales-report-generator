@@ -1,20 +1,20 @@
-1;Televisión;542.48
-2;Laptop;519.40
-3;Smartphone;822.66
-4;Tablet;1003.13
-5;Cámara;530.64
-6;Auriculares;388.35
-7;Smartwatch;499.86
-8;Consola de videojuegos;1085.73
-9;Refrigerador;585.33
-10;Lavadora;1214.65
-11;Secadora;727.87
-12;Microondas;1513.00
-13;Cafetera;1407.77
-14;Aspiradora;1520.17
-15;Plancha;983.21
-16;Parlante Bluetooth;616.13
-17;Monitor;1378.42
-18;Teclado;1506.91
-19;Mouse;348.50
-20;Impresora;164.16
+1;Televisión;1413.25
+2;Laptop;1599.23
+3;Smartphone;269.55
+4;Tablet;778.96
+5;Cámara;482.60
+6;Auriculares;1314.35
+7;Smartwatch;508.23
+8;Consola de videojuegos;1312.89
+9;Refrigerador;830.98
+10;Lavadora;404.79
+11;Secadora;977.52
+12;Microondas;497.02
+13;Cafetera;500.97
+14;Aspiradora;1325.16
+15;Plancha;220.44
+16;Parlante Bluetooth;1544.15
+17;Monitor;1255.29
+18;Teclado;382.90
+19;Mouse;1489.70
+20;Impresora;895.93
